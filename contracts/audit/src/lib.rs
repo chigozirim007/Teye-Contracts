@@ -67,3 +67,4 @@ pub mod types;
 // Re-export contract types for external use
 pub use contract::AuditContract;
 pub use contract::AuditContractClient;
+pub use contract::AuditContractError;
